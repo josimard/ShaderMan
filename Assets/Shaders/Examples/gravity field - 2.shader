@@ -1,6 +1,6 @@
 // Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)'
 
-Shader"ShaderMan/gravity field - 2"{
+Shader"ShaderMan/Examples/gravity field - 2"{
 Properties{
 _ThirdTex("ThirdTex", 2D) = "white"{}
 _iMouse("iMouse", Vector) = (0,0,0,0)

@@ -1,6 +1,6 @@
 // Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)'
 
-Shader"ShaderMan/Smooth HSV"{
+Shader"ShaderMan/Examples/Smooth HSV"{
 Properties{
 
 }

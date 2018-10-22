@@ -1,7 +1,7 @@
 // Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)'
 
 
-Shader"ShaderMan/DirtyoldCRT"{
+Shader"ShaderMan/Examples/DirtyoldCRT"{
 Properties{
 _MainTex("MainTex", 2D) = "white"{}
 _SecondTex("SecondTex", 2D) = "white"{}

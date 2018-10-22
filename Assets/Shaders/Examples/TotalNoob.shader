@@ -1,7 +1,7 @@
 // Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)'
 
 
-Shader"ShaderToyConverter/TotalNoob"{
+Shader"ShaderMan/Examples/TotalNoob"{
 Properties{
 _MainTex("MainTex", 2D) = "white"{}
 

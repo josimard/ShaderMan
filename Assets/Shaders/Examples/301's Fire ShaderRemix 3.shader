@@ -1,7 +1,7 @@
 // Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)'
 
 
-Shader"ShaderMan/301's Fire ShaderRemix 3"{
+Shader"ShaderMan/Examples/301's Fire ShaderRemix 3"{
 Properties{
 _MainTex("MainTex", 2D) = "white"{}
 

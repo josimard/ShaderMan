@@ -1,7 +1,7 @@
 // Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)'
 
 
-Shader"ShaderMan/Clip"{
+Shader"ShaderMan/Examples/Clip"{
 Properties{
 _MainTex("MainTex", 2D) = "white"{}
 _SecondTex("_SecondTex",2D) = "white"{}

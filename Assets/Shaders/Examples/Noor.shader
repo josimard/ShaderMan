@@ -1,7 +1,7 @@
 // Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)'
 
 
-Shader"ShaderToyConverter/Noor"{
+Shader"ShaderMan/Examples/Noor"{
 Properties{
 _MainTex("MainTex", 2D) = "white"{}
 _SecondTex("SecondTex", 2D) = "white"{}

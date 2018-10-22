@@ -1,6 +1,6 @@
 // Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)'
 
-Shader"ShaderMan/Industry"{
+Shader"ShaderMan/Examples/Industry"{
 Properties{
 
 }

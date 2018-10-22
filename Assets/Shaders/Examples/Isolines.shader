@@ -1,6 +1,6 @@
 // Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)'
 
-Shader"ShaderMan/Isolines"{
+Shader"ShaderMan/Examples/Isolines"{
 Properties{
 _MainTex("_MainTex", 2D) = "white"{}
 _SecondTex("SecondTex", 2D) = "white"{}

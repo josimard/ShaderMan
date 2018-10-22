@@ -1,6 +1,6 @@
 // Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)'
 
-Shader"ShaderMan/Simple Eye Blower"{
+Shader"ShaderMan/Examples/Simple Eye Blower"{
 Properties{
 
 }

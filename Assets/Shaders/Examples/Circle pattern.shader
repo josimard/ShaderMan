@@ -1,6 +1,6 @@
 // Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)'
 
-Shader"ShaderMan/Circle pattern"{
+Shader"ShaderMan/Examples/Circle pattern"{
 Properties{
 _MainTex("_MainTex", 2D) = "white"{}
 

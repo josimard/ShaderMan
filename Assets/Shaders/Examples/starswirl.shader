@@ -1,7 +1,7 @@
 // Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)'
 
 
-Shader"ShaderToyConverter/starswirl"{
+Shader"ShaderMan/Examples/starswirl"{
 Properties{
 _MainTex("MainTex", 2D) = "white"{}
 

@@ -1,7 +1,7 @@
 // Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)'
 
 
-Shader"ShaderToyConverter/ChromaticAberration"{
+Shader"ShaderMan/Examples/ChromaticAberration"{
 Properties{
 _MainTex("MainTex", 2D) = "white"{}
 

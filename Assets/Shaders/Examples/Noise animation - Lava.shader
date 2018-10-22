@@ -1,6 +1,6 @@
 // Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)'
 
-Shader"ShaderMan/Noise animation - Lava"{
+Shader"ShaderMan/Examples/Noise animation - Lava"{
 Properties{
 _MainTex("_MainTex", 2D) = "white"{}
 

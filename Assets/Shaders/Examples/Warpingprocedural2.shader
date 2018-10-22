@@ -1,7 +1,7 @@
 // Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)'
 
 
-Shader"ShaderMan/Warpingprocedural2"{
+Shader"ShaderMan/Examples/Warpingprocedural2"{
 Properties{
 _MainTex("MainTex", 2D) = "white"{}
 

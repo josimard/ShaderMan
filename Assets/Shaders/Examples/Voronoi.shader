@@ -1,6 +1,6 @@
 // Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)'
 
-Shader"ShaderMan/Voronoi"{
+Shader"ShaderMan/Examples/Voronoi"{
 Properties{
 _MainTex("_MainTex", 2D) = "white"{}
 

@@ -1,7 +1,7 @@
 // Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)'
 
 
-Shader"ShaderMan/Synaptic"{
+Shader"ShaderMan/Examples/Synaptic"{
 Properties{
 _MainTex("MainTex", 2D) = "white"{}
 _SecondTex("SecondTex", 2D) = "white"{}

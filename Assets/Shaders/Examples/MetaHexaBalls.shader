@@ -1,7 +1,7 @@
 // Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)'
 
 
-Shader"ShaderMan/MetaHexaBalls"{
+Shader"ShaderMan/Examples/MetaHexaBalls"{
 Properties{
 _MainTex("MainTex", 2D) = "white"{}
 _iMouse("iMouse", Vector) = (0,0,0,0)

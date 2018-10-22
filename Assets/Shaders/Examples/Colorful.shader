@@ -1,7 +1,7 @@
 // Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)'
 
 
-Shader"ShaderMan/HLSL"{
+Shader"ShaderMan/Examples/HLSL"{
 Properties{
 _MainTex("MainTex", 2D) = "white"{}
 

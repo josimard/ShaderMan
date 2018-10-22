@@ -1,6 +1,6 @@
 // Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)'
 
-Shader"ShaderMan/heart2D"{
+Shader"ShaderMan/Examples/heart2D"{
 Properties{
 
 }

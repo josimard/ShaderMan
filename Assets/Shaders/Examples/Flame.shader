@@ -1,7 +1,7 @@
 // Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)'
 
 
-Shader"ShaderMan/Flame"{
+Shader"ShaderMan/Examples/Flame"{
 Properties{
 _MainTex("MainTex", 2D) = "white"{}
 

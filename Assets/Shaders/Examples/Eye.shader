@@ -1,7 +1,7 @@
 // Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)'
 
 
-Shader"ShaderToyConverter/Eye"{
+Shader"ShaderMan/Examples/Eye"{
 Properties{
 _MainTex("MainTex", 2D) = "white"{}
 
